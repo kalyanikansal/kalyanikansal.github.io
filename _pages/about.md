@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Phd Student at Johns Hopkins"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,4 +9,6 @@ redirect_from:
 ---
 
 
-I am a Phd student in math department at Johns Hopkins.
+I am a PhD student in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/), advised by [David Savitt](https://math.jhu.edu/~savitt/). I did my undergraduate studies in medicine and surgery at [Government Medical College, Chandigarh](http://gmch.gov.in/).
+
+I am broadly interested in number theory and arithmetic geometry, and my current research focuses on Emerton-Gee stacks for two dimensional Galois representations.
