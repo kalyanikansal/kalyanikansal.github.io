@@ -11,6 +11,6 @@ redirect_from:
 
 I am a PhD student in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/), advised by [David Savitt](https://math.jhu.edu/~savitt/). I did my undergraduate studies in medicine and surgery at [Government Medical College, Chandigarh](http://gmch.gov.in/).
 
-I am broadly interested in number theory and arithmetic geometry, and my current research focuses on Emerton-Gee stacks for two dimensional Galois representations.
+I am broadly interested in number theory and arithmetic geometry. My current research focuses on the Emerton-Gee stack for two dimensional Galois representations.
 
 Here is my [CV](https://kalyanikansal.github.io/files/Resume.pdf).
