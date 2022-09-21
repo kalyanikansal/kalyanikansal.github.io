@@ -23,6 +23,6 @@ Here is my [CV](https://kalyanikansal.github.io/files/Resume.pdf).
 
 ## Non-math work
 
-I did my undergraduate studies in Medicine and Surgery at [Government Medical College, Chandigarh](http://gmch.gov.in/), following which I was a post-doctoral fellow in Psychiatry. Here is a [link](https://scholar.google.com/citations?user=UL4WLlIAAAAJ&hl=en&oi=ao) to my Google Scholar profile containing a list of my non-math publications.
+I did my undergraduate studies in Medicine and Surgery at [Government Medical College, Chandigarh](http://gmch.gov.in/), following which I was a post-doctoral research fellow in Psychiatry. Here is a [link](https://scholar.google.com/citations?user=UL4WLlIAAAAJ&hl=en&oi=ao) to my Google Scholar profile containing a list of my non-math publications.
 
 
