@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-## Non-Math
+## Selected non-math
 * K. Kansal, Z. Yang, A. M. Fishman, H. I. Sair, S. H. Ying, B. M. Jedynak, J. L. Prince, C. U. Onyike. Structural cerebellar correlates of cognitive and motor dysfunctions in cerebellar degeneration, _Brain, 2017_.
 * K. Kansal, M. Mareddy, K. L. Sloane, A. A. Minc, P. V. Rabins, J. B. McGready, C. U. Onyike. Survival in frontotemporal dementia phenotypes: a meta-analysis, _Dementia and geriatric cognitive disorders, 2016_.
 * K. Kansal, D. J. Irwin. The Use of Cerebrospinal Fluid and Neuropathologic Studies in Neuropsychiatry Practice and Research. _Psychiatric Clinics, 2015_.
