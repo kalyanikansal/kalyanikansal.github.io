@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 ## Math
-* K. Kansal. Codimension one intersections between components of a moduli stack of two-dimensional Galois representations, _in preparation_.
+* K. Kansal. Codimension one intersections between components of a moduli stack of two-dimensional Galois representations, _[preprint](https://arxiv.org/pdf/2210.05002.pdf)_.
 * [A. Guzman](https://sites.google.com/math.arizona.edu/awguzman/), K. Kansal, [I. Kountouridis](https://mathematics.uchicago.edu/people/profile/iason-kountouridis/), B. Savoie and [X. Wang](https://www.xiyuanwang.website). Smoothness of components of the Emerton-Gee stack for $GL_2$, _[preprint](https://arxiv.org/pdf/2209.09439.pdf)_.
 
 
