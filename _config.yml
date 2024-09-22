@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kalyani Kansal"
   avatar           : "profile.jpeg"
-  bio              : "PhD Student in Mathematics"
-  location         : "Baltimore, MD, USA"
-  employer         : "Johns Hopkins University"
+  bio              : "Mathematician"
+  location         : "London, UK"
+  employer         : "Imperial College London"
   pubmed           : 
   googlescholar    : 
-  email            : "kkansal2@jhu.edu"
+  email            : "k.kansal@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
