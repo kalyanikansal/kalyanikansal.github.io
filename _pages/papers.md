@@ -13,7 +13,7 @@ author_profile: true
 
 ## Math
 * K. Kansal and B. Savoie. Non-generic components of the Emerton-Gee stack for $GL_2$. _[pdf](https://kalyanikansal.github.io/files/nonsmooth.pdf)_.
-* [R. Bellovin](https://rmbellovin.github.io/), [N.Borade](https://www.math.princeton.edu/people/neelima-borade), [A. Hilado](https://sites.google.com/view/antonhilado), K. Kansal, [H. Lee](https://sites.google.com/view/heejonglee/home), [B. Levin](https://math.rice.edu/~bl70/), [D. Savitt](https://math.jhu.edu/~savitt/) and [H. Wiersema](https://www.dpmms.cam.ac.uk/~hw600/). Irregular loci in the Emerton-Gee stack for $GL_2. To appear, J. Reine Angew. Math., _[pdf](https://kalyanikansal.github.io/files/apaw.pdf)_.
+* [R. Bellovin](https://rmbellovin.github.io/), [N.Borade](https://www.math.princeton.edu/people/neelima-borade), [A. Hilado](https://sites.google.com/view/antonhilado), K. Kansal, [H. Lee](https://sites.google.com/view/heejonglee/home), [B. Levin](https://math.rice.edu/~bl70/), [D. Savitt](https://math.jhu.edu/~savitt/) and [H. Wiersema](https://www.dpmms.cam.ac.uk/~hw600/). Irregular loci in the Emerton-Gee stack for $GL_2$. To appear, J. Reine Angew. Math., _[pdf](https://kalyanikansal.github.io/files/apaw.pdf)_.
 * K. Kansal. Codimension one intersections between components of the Emerton-Gee stack for $GL_2$. Submitted, _[pdf](https://kalyanikansal.github.io/files/intersections.pdf)_.
 * [A. Guzman](https://sites.google.com/math.arizona.edu/awguzman/), K. Kansal, [I. Kountouridis](https://mathematics.uchicago.edu/people/profile/iason-kountouridis/), B. Savoie and [X. Wang](https://www.xiyuanwang.website). Smoothness of components of the Emerton-Gee stack for $GL_2$. To appear, Trans. of AMS,  _[pdf](https://kalyanikansal.github.io/files/smooth.pdf)_.
 
